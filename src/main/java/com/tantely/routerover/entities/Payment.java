@@ -1,6 +1,6 @@
-package hei.shool.transportationmanagementsystem.entities;
+package com.tantely.routerover.entities;
 
-import hei.shool.transportationmanagementsystem.enums.PaymentMethod;
+import com.tantely.routerover.enums.PaymentMethod;
 import jakarta.persistence.*;
 import lombok.*;
 

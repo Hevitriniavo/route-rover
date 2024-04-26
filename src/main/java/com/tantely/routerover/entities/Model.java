@@ -1,4 +1,4 @@
-package hei.shool.transportationmanagementsystem.entities;
+package com.tantely.routerover.entities;
 
 import jakarta.persistence.*;
 import lombok.EqualsAndHashCode;

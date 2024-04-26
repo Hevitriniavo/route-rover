@@ -1,6 +1,6 @@
-package hei.shool.transportationmanagementsystem.entities;
+package com.tantely.routerover.entities;
 
-import hei.shool.transportationmanagementsystem.enums.Status;
+import com.tantely.routerover.enums.Status;
 import jakarta.persistence.*;
 import lombok.*;
 
